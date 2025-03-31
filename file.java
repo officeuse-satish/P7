@@ -1,2 +1,3 @@
-This is the java file
-  x =100
+
+X=200
+
